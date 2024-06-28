@@ -1,0 +1,150 @@
+{
+    "kopi": [
+      {
+        "nama": "Cappucino",
+        "size": "150ml",
+        "harga": "20.000",
+        "link": "#",
+        "foto": "images/produk/product_capuchino.jpg"
+      },
+      {
+        "nama": "Espresso",
+        "size": "100 ml",
+        "harga": "25.000",
+        "link": "#",
+        "foto": "images/produk/product_espresso.jpg"
+      },
+      {
+        "nama": "Kopi Susu",
+        "size": "200 ml",
+        "harga": "15.000",
+        "link": "#",
+        "foto": "images/produk/product_kopi_susu.jpg"
+      },
+      {
+        "nama": "Latte",
+        "size": "100 ml",
+        "harga": "30.000",
+        "link": "#",
+        "foto": "images/produk/product_latte.jpg"
+      },
+      {
+        "nama": "Americano",
+        "size": "100 ml",
+        "harga": "15.000",
+        "link": "#",
+        "foto": "https://th.bing.com/th/id/OIP.BSP4bZJ0kWXLzrBgU_L0IQHaE8?w=1200&h=800&rs=1&pid=ImgDetMain"
+      }
+    ],
+    "teh": [
+      {
+        "nama": "Es Teh Manis",
+        "size": "200ml",
+        "harga": "5.000",
+        "link": "#",
+        "foto": "https://fajar.co.id/wp-content/uploads/2023/09/IMG_0741.jpg"
+      },
+      {
+        "nama": "Matcha",
+        "size": "100 ml",
+        "harga": "13.000",
+        "link": "#",
+        "foto": "https://th.bing.com/th/id/OIP.t_W4FffPWwhrXVApqPGN9gHaE8?rs=1&pid=ImgDetMain"
+      },
+      {
+        "nama": "Thai Tea",
+        "size": "210 ml",
+        "harga": "10.000",
+        "link": "#",
+        "foto": "https://th.bing.com/th/id/OIP._rxZy6srwqHPFZU6feyrpwAAAA?rs=1&pid=ImgDetMain"
+      },
+      {
+        "nama": "Boba Milk Tea",
+        "size": "200 ml",
+        "harga": "12.000",
+        "link": "#",
+        "foto": "https://www.honestfoodtalks.com/wp-content/uploads/2021/09/How-to-make-bubble-tea.jpeg"
+      },
+      {
+        "nama": "Green Tea",
+        "size": "100 ml",
+        "harga": "10.000",
+        "link": "#",
+        "foto": "https://th.bing.com/th/id/OIP.0OKa9LzpKialkcVf53No7QHaFj?rs=1&pid=ImgDetMain"
+      }
+    ],
+    "makanan": [
+      {
+        "nama": "Tempe Mendoan",
+        "size": "5 Pcs",
+        "harga": "10.000",
+        "link": "#",
+        "foto": "https://i0.wp.com/resepkoki.id/wp-content/uploads/2016/09/Resep-Tempe-Mendoan.jpg"
+      },
+      {
+        "nama": "Pisang Crispy",
+        "size": "5 Pcs",
+        "harga": "10.000",
+        "link": "#",
+        "foto": "https://img.freepik.com/fotos-premium/pisang-krispi-platanos-crujientes-queso-rallado-pepitas-chocolate-caseras_558534-373.jpg"
+      },
+      {
+        "nama": "Kentang Goreng",
+        "size": "1 Porsi",
+        "harga": "10.000",
+        "link": "#",
+        "foto": "https://th.bing.com/th/id/OIP.syD0wuwLTGGumZMbVknXSAHaFe?rs=1&pid=ImgDetMain"
+      },
+      {
+        "nama": "Mie Ayam",
+        "size": "1 Porsi",
+        "harga": "15.000",
+        "link": "#",
+        "foto": "https://th.bing.com/th/id/R.9d814fc58d17249a89d2a3f5d848b6f9?rik=oxV1ELH6I7KoAA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-k9accfysoS4%2fT6fkztpqQhI%2fAAAAAAAAASM%2fOYcyLvdgfiI%2fs1600%2fMie%2bAyam1.jpg&ehk=g%2f%2fjFOPUmNey%2bK3x3%2bQUbmtp8f19mPWskH2Cdi5lAio%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        "nama": "Bakso",
+        "size": "1 Porsi",
+        "harga": "12.000",
+        "link": "#",
+        "foto": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/08/07/1325166108.jpg"
+      }
+    ],
+    "sports": [
+      {
+        "nama": "Consina Hiker Pro",
+        "size": "41-43",
+        "harga": "715.000",
+        "link": "#",
+        "foto": "https://cdn.consina.com/wp-content/uploads/2022/12/Hiker-pro.jpeg"
+      },
+      {
+        "nama": "Kaos Kaki Sport",
+        "size": "S M L XL",
+        "harga": "10.000",
+        "link": "#",
+        "foto": "https://th.bing.com/th/id/OIP.80D-RbVFRKuVrOTR2RrtYgHaHa?rs=1&pid=ImgDetMain"
+      },
+      {
+        "nama": "Adidas Predator",
+        "size": "40-45",
+        "harga": "984.000",
+        "link": "#",
+        "foto": "https://cf.shopee.co.id/file/0bc1d042339efe9cd4e8143031f73009"
+      },
+      {
+        "nama": "Jersey Custom",
+        "size": "S M L XL",
+        "harga": "65.000",
+        "link": "#",
+        "foto": "https://filebroker-cdn.lazada.co.id/kf/S25e9e648b62b46f2813519f39e7eda1e0.jpg"
+      },
+      {
+        "nama": "Raket",
+        "size": "1 Pasang",
+        "harga": "400.000",
+        "link": "#",
+        "foto": "https://th.bing.com/th/id/OIP.HnfK4bkiiOGwybE9OnQ6VQHaHh?rs=1&pid=ImgDetMain"
+      }
+    ]
+  }
