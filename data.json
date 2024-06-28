@@ -1,5 +1,5 @@
 {
-    "kopi": [
+    "Kopi": [
       {
         "nama": "Cappucino",
         "size": "150ml",
@@ -36,7 +36,7 @@
         "foto": "https://th.bing.com/th/id/OIP.BSP4bZJ0kWXLzrBgU_L0IQHaE8?w=1200&h=800&rs=1&pid=ImgDetMain"
       }
     ],
-    "teh": [
+    "Teh": [
       {
         "nama": "Es Teh Manis",
         "size": "200ml",
@@ -73,7 +73,7 @@
         "foto": "https://th.bing.com/th/id/OIP.0OKa9LzpKialkcVf53No7QHaFj?rs=1&pid=ImgDetMain"
       }
     ],
-    "makanan": [
+    "Makanan": [
       {
         "nama": "Tempe Mendoan",
         "size": "5 Pcs",
@@ -110,7 +110,7 @@
         "foto": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/08/07/1325166108.jpg"
       }
     ],
-    "sports": [
+    "Sports": [
       {
         "nama": "Consina Hiker Pro",
         "size": "41-43",

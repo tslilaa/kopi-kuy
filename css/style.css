@@ -548,7 +548,59 @@ footer div.navigasi a {
 
 
 /* UNTUK kode RESPONSIF hari ke 3 tulis DI BAWAH sini */
-
-
+ 
+ /* Responsivitas */
+ @media (max-width: 768px) {
+   header {
+     flex-direction: column;
+     text-align: center;
+   }
+ 
+   nav .navigasi {
+     flex-direction: column;
+     align-items: center;
+   }
+ 
+   nav .navigasi a {
+     padding: 10px 0;
+   }
+ 
+   .best-seller .produk,
+   .our-team .team,
+   .review .testimoni {
+     display: block;
+     margin: 10px auto;
+     width: 90%;
+   }
+ 
+   .contact-us .kontak {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin: 10px 0;
+   }
+ 
+   .contact-us iframe {
+     width: 100%;
+     height: 300px;
+   }
+ }
+ 
+ @media (max-width: 480px) {
+   nav .navigasi {
+     display: none;
+   }
+ 
+   nav .shop,
+   nav .chat {
+     display: block;
+     margin: 10px 0;
+     text-align: center;
+   }
+ 
+   .header h1 {
+     font-size: 1.5rem;
+   }
+ }
 
 /* Kode CSS Selesai di sini */
